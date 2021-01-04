@@ -4,4 +4,4 @@ This method allows apps to be installed to an Xbox in retail mode that would nor
 
 RetroArch and PPSSPP are available and functional, with the others being WIP.
 
-A guide is a WIP.
+A guide is no longer WIP, cancelled.
