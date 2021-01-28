@@ -36,3 +36,17 @@ If you have a Microsoft account that you log into on your Xbox and $20, you have
 ### Step 2: Create an application in Microsoft Partner Center
 
 Now we will use the Partner Center to create an app that you can submit to your own private Microsoft Store.
+
+**1.**  Navigate to this URL (https://partner.microsoft.com/overview).
+
+**2.**  Press the "create a new app" button.
+
+**3.**  Enter an app name into the "name" field and click on the "reserve product name" button.  Like the publisher name, your app's name can be anything that has not already been reserved.
+
+**4.**  The application overview page is now displayed.  Click on the "start your submission" button.
+
+**5.**  All these sections will need to be completed in order to create your app.  Click on the "pricing and availability" link first.
+
+![availability](https://i.imgur.com/SqQ4huM.png "Click on the topmost link")
+
+
