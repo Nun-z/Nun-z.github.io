@@ -35,7 +35,7 @@ If you have a Microsoft account that you log into on your Xbox and $20, you have
 
 ### Step 2: Create an application in Microsoft Partner Center
 
-Now we will use the Partner Center to create an app that you can submit to your own private Microsoft Store.
+Now we will use the Partner Center to create an app that you can submit to your own private Microsoft Store.  This will be the bulk of the required work.
 
 **1.**  Navigate to this URL (https://partner.microsoft.com/overview).
 
