@@ -19,3 +19,8 @@ To summarize what must be done, you must first create a template for an app on M
 If you have a Microsoft account that you log into on your Xbox and $20, you have everything you need to complete this step.  If you have a developer account already, skip this step.
 
 **1.**  Go to this URL (https://developer.microsoft.com/en-us/store/register/) and click on the “Sign Up” button.
+
+**2.**  If you are not already signed in with your Xbox’s Microsoft account, sign in using the prompt displayed.
+
+**3.**  On the next page, select the “Individual” account type option.
+![AccountType](https://i.imgur.com/QMwdTjV.png "Sign up for an individual account")
