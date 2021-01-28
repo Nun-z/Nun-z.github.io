@@ -34,3 +34,5 @@ If you have a Microsoft account that you log into on your Xbox and $20, you have
 **7.**  Enter your payment information, go to the Review page, and complete the purchase.  You now have a Microsoft developer account.
 
 ### Step 2: Create an application in Microsoft Partner Center
+
+Now we will use the Partner Center to create an app that you can submit to your own private Microsoft Store.
