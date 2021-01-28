@@ -18,9 +18,19 @@ To summarize what must be done, you must first create a template for an app on M
 
 If you have a Microsoft account that you log into on your Xbox and $20, you have everything you need to complete this step.  If you have a developer account already, skip this step.
 
-**1.**  Go to this URL (https://developer.microsoft.com/en-us/store/register/) and click on the “Sign Up” button.
+**1.**  Go to this URL (https://developer.microsoft.com/en-us/store/register/) and click on the “sign up” button.
 
 **2.**  If you are not already signed in with your Xbox’s Microsoft account, sign in using the prompt displayed.
 
-**3.**  On the next page, select the “Individual” account type option.
+**3.**  On the next page, select the “individual” account type option.
 ![AccountType](https://i.imgur.com/QMwdTjV.png "Sign up for an individual account")
+
+**4.**  Scroll down to the “publisher display name (company name)” textbox and enter your desired publisher name.  This can be anything as long as it hasn’t already been claimed by someone else.
+
+**5.**  Scroll down and fill in the “contact info” textboxes.  Then, press the “next” button at the bottom of the page.
+
+**6.**  On the next page, click on “add a new payment method.”
+
+**7.**  Enter your payment information, go to the Review page, and complete the purchase.  You now have a Microsoft developer account.
+
+## Step 2: Create an application in Microsoft Partner Center
