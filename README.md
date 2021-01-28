@@ -49,4 +49,15 @@ Now we will use the Partner Center to create an app that you can submit to your 
 
 ![availability](https://i.imgur.com/SqQ4huM.png "Click on the topmost link")
 
+**6.**  In the visibility section of the next page, click on the "private audience" radio button, and then click on the "create a new group" link.
+
+![visibility](https://i.imgur.com/uSnYjw8.png "Add yourself to a group")
+
+**7.**  Enter anything you desire in the "group name" textbox, and then enter your email address into the bottom textbox.
+
+**8.**  Click on the "save" button.
+
+**9.** First, place your cursor on the symbol with three squares on the left-hand portion of the page.  Then, click on the name of your app.
+
+![return](https://i.imgur.com/zePt574.png "Return to the product overview page")
 
