@@ -72,3 +72,53 @@ Now we will use the Partner Center to create an app that you can submit to your 
 **13.**  Click on the checkbox for the customer group that you just created.
 
 ![customers](https://i.imgur.com/iyhJS7v.png "click on the checkbox")
+
+**14.**  Scroll down to the discoverability section and click on the radio button for "make this product available but not discoverable in the Microsoft Store."
+
+**15.**  Make sure the "direct link only" radio button is also selected.
+
+![directlink](https://i.imgur.com/bnRnzrH.png "make sure the app is for a private audience")
+
+**16.** Scroll down to the pricing section and choose "free" in the base price dropdown list.
+
+**17.** Scroll all the way down and click on the "save draft" button.
+
+#### Step 2.2: Enter properties settings
+
+**1.**  Click on the "properties" link.
+
+![properties](https://i.imgur.com/nkztM6A.png "fill out the properties section")
+
+**2.**  In the topmost dropdown list, select "games" for the category.
+
+**3.**  Click on the checkbox for any genre.
+
+**4.**  Scroll down to the support info section and read the App Developer Agreement.  If the agreement says that a privacy policy is not required for your app, click on the "no" radio button and leave the other fields blank.
+
+![policy](https://i.imgur.com/z3QsbXr.png "select the appropriate radio button for your app")
+
+**5.**  Scroll down to the display mode section and click on both Xbox checkboxes.
+
+![display](https://i.imgur.com/BDZfhSZ.png "display mode checkboxes")
+
+**6.**  No further input is required.  Scroll all the way down and click on the "save" button.
+
+#### Step 2.3: Enter age ratings settings
+
+**1.** Click on the "age ratings" link
+
+![ageratings](https://i.imgur.com/8x9HMJh.png "age ratings")
+
+**2.**  Go ahead and select the radio buttons that best describe your app.  Nothing specific is required here except for the last question.
+
+**3.**  Scroll down and select the "no" radio button for the final question.
+
+![ratingsboard](https://i.imgur.com/x6LI0ra.png "select no here")
+
+**4.**  Click on the "save" button.
+
+#### Step 2.4: Enter store listing settings
+
+**1.**  Click on the "add/remove languages" link in the store listings section.
+
+![addlanguage](https://i.imgur.com/ZtrN9G2.png "add a language")
