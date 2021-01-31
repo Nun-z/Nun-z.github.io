@@ -37,6 +37,8 @@ If you have a Microsoft account that you log into on your Xbox and $20, you have
 
 Now we will use the Partner Center to create an app that you can submit to your own private Microsoft Store.  This will be the bulk of the required work.
 
+#### Step 2.1: Enter availability settings
+
 **1.**  Navigate to this URL (https://partner.microsoft.com/overview).
 
 **2.**  Press the "create a new app" button.
@@ -57,7 +59,16 @@ Now we will use the Partner Center to create an app that you can submit to your 
 
 **8.**  Click on the "save" button.
 
-**9.** First, place your cursor on the symbol with three squares on the left-hand portion of the page.  Then, click on the name of your app.
+**9.**  First, place your cursor on the symbol with three squares on the left-hand portion of the page.  Then, click on the name of your app.
 
 ![return](https://i.imgur.com/zePt574.png "Return to the product overview page")
 
+**10.**  Click on the "submission 1" link under the "submissions" heading.
+
+**11.**  Click on the "pricing and availability" link again.
+
+**12.**  Select "private audience" again in the visibility section.
+
+**13.**  Click on the checkbox for the customer group that you just created.
+
+![customers](https://i.imgur.com/iyhJS7v.png "click on the checkbox")
