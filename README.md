@@ -132,3 +132,15 @@ Now we will use the Partner Center to create an app that you can submit to your 
 **3.**  A new window is displayed.  Type "english" into the textbox and click on the "english"checkbox.
 
 ![languages](https://i.imgur.com/tAwESG0.png "select the appropriate language")
+
+**4.**  Click on the "update" button.
+
+**5.**  Click on the "save" button at the bottom of the screen.
+
+**6.**  Click on the "english" link that is now displayed in the store listings section.
+
+![englishlink](https://i.imgur.com/ud9KS4Q.png "click on the language link")
+
+**7.**  Enter the app's description into the required "description" textbox.
+
+**8.**  Scroll down to the screenshots section.  Click on the "Xbox" option.  You will now need to upload at least one screenshot.
