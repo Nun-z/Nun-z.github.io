@@ -14,6 +14,10 @@ There are some things you should be aware of if you choose to follow this guide.
 
 To summarize what must be done, you must first create a template for an app on Microsoft Partner Center (used for releasing UWP apps to the Microsoft Store), indicate that the app will only be available to a private audience (so that it doesn’t need to pass certification), add your email address to that private audience, associate the app’s source code with the project you created in Partner Center, generate a package that can be uploaded to Partner Center, upload the package to Partner Center, submit the Partner Center project to Microsoft, create a website with a link to your app’s Microsoft Store page, and then click on that link using your Xbox’s Edge browser.
 
+### Requirements
+
+Empty
+
 ### Step 1: Sign up for a developer account
 
 If you have a Microsoft account that you log into on your Xbox and $20, you have everything you need to complete this step.  If you have a developer account already, skip this step.
@@ -122,3 +126,9 @@ Now we will use the Partner Center to create an app that you can submit to your 
 **1.**  Click on the "add/remove languages" link in the store listings section.
 
 ![addlanguage](https://i.imgur.com/ZtrN9G2.png "add a language")
+
+**2.**  Type "english" into the first textbox and press the enter key.
+
+**3.**  A new window is displayed.  Type "english" into the textbox and click on the "english"checkbox.
+
+![languages](https://i.imgur.com/tAwESG0.png "select the appropriate language")
