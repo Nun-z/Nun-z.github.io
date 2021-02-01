@@ -16,7 +16,7 @@ To summarize what must be done, you must first create a template for an app on M
 
 ### Requirements
 
-To follow this guide, you will need $20 (unless you already have a Microsoft developer account), a computer running Windows, git installed, and Visual Studio 2017 or 2019.  The installation of Visual Studio and git are not within the scope of this guide.
+To follow this guide, you will need $20 (unless you already have a Microsoft developer account), a computer running Windows, git, and Visual Studio 2017 or 2019.  The installation of Visual Studio and git are not within the scope of this guide.
 
 ### Step 1: Sign up for a developer account
 
