@@ -127,9 +127,9 @@ Now we will use the Partner Center to create an app that you can submit to your 
 
 ![addlanguage](https://i.imgur.com/ZtrN9G2.png "add a language")
 
-**2.**  Type "english" into the first textbox and press the enter key.
+**2.**  Type "English" into the first textbox and press the enter key.
 
-**3.**  A new window is displayed.  Type "english" into the textbox and click on the "english"checkbox.
+**3.**  A new window is displayed.  Type "English" into the textbox and click on the "English" checkbox.
 
 ![languages](https://i.imgur.com/tAwESG0.png "select the appropriate language")
 
@@ -137,7 +137,7 @@ Now we will use the Partner Center to create an app that you can submit to your 
 
 **5.**  Click on the "save" button at the bottom of the screen.
 
-**6.**  Click on the "english" link that is now displayed in the store listings section.
+**6.**  Click on the "English" link that is now displayed in the store listings section.
 
 ![englishlink](https://i.imgur.com/ud9KS4Q.png "click on the language link")
 
