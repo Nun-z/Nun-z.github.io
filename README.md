@@ -143,4 +143,12 @@ Now we will use the Partner Center to create an app that you can submit to your 
 
 **7.**  Enter the app's description into the required "description" textbox.
 
-**8.**  Scroll down to the screenshots section.  Click on the "Xbox" option.  You will now need to upload at least one screenshot.
+**8.**  Scroll down to the screenshots section.  Click on the "Xbox" option.  You will now need to upload at least one .png screenshot with dimensions between 1920x1080 and 3840x2160.
+
+**9.**  Once you have found a suitable image, click on the plus button and upload it.
+
+**10.**  You will also need to upload a store logo image, in the section below the screenshots, with dimensions between 720x1080 and 1440x2160.
+
+**11.**  Once the uploads are complete, no further input is required for this page.  Scroll down and click the "save" button at the bottom of the page.
+
+### Step 3: Prepare the application's package for upload
