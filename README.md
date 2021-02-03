@@ -152,3 +152,21 @@ Now we will use the Partner Center to create an app that you can submit to your 
 **11.**  Once the uploads are complete, no further input is required for this page.  Scroll down and click the "save" button at the bottom of the page.
 
 ### Step 3: Prepare the application's package for upload
+
+We will now need to generate a .msixupload or .appxupload file for submission to the Microsoft Store.  This step will involve git and Visual Studio.
+
+**1.**  Enter "cmd" in the Windows search bar and click on the first search result.
+
+**2.**  Using the "cd" command, navigate to the folder that will hold the app's source code.
+
+**3.**  Enter the following into cmd.exe and press the enter key.  Replace the URL I am using with the URL that links to your app's source code.
+
+`git clone --recursive https://github.com/Nun-z/UniversalFtpServer.git`
+
+**4.**  Double-click on the resulting .sln file that corresponds to your app.  If the project has multiple .sln files, make sure to click on the one that is specifically intended for generating a UWP package.
+
+**5.**  Visual Studio will launch.  Click on the "sign in" button at the top-right of the screen.
+
+![VSsignin](https://i.imgur.com/nHCZj2L.png "click on the sign-in button")
+
+**6.**  Log in with the Microsoft account that is linked to your Xbox.
