@@ -274,3 +274,5 @@ Once the app has been published, it is time to create a website that will link t
 ```
 
 **6.**  You will now need to host the index.html file.  One common choice for creating websites like these is github.io (https://pages.github.com/).
+
+### Step 6: Install the app to your Xbox in retail mode
