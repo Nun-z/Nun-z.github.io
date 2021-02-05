@@ -97,7 +97,7 @@ Now we will use the Partner Center to create an app that you can submit to your 
 
 **3.**  Click on the checkbox for any genre.
 
-**4.**  Scroll down to the support info section and read the App Developer Agreement.  If the agreement says that a privacy policy is not required for your app, click on the "no" radio button and leave the other fields blank.
+**4.**  Click on the "yes" button for the privacy policy section and enter a valid URL.
 
 ![policy](https://i.imgur.com/z3QsbXr.png "select the appropriate radio button for your app")
 
@@ -196,3 +196,49 @@ We will now need to generate a .msixupload or .appxupload file for submission to
 **15.**  Click on the "output location" link.
 
 ![linktopackage](https://i.imgur.com/kEVgRFW.png "open the package destination")
+
+### Step 4: Upload the application to the Microsoft Store
+
+Now that we have generated the package, we need to upload it to our private Microsoft Store.
+
+**1.**  Navigate to the Partner Center (https://partner.microsoft.com/en-us/dashboard/windows/overview).
+
+**2.**  Click on the "continue submission" button for your app.
+
+**3.**  Click on the "packages" link.
+
+![packagessection](https://i.imgur.com/9WigQGV.png "go to the packages section")
+
+**4.**  Drag the .appxupload or .msixupload file into the packages section.
+
+![uploadfile](https://i.imgur.com/lhf3CIp.png "add the package file to the app")
+
+**5.**  Select the "Windows 10 desktop" and "Windows 10 xbox" checkboxes in the device family availability section.
+
+**6.**  Scroll all the way down and click on the "save" button.
+
+**7.**  Remove any languages in the store listings section that you don't want to include in your app.
+
+**8.**  Click on the "Xbox Live creator's program" link.
+
+![XboxLive](https://i.imgur.com/RJUFuri.png "enter the xbox live program")
+
+**8.**  Click on the "enable" button on the top-right of the page.
+
+**9.**  Click on the "confirm" button.
+
+**10.**  Scroll all the way down and click on the "test" button.
+
+**11.**  Once "success" is displayed, return to the app overview page.
+
+**12.**  Scroll down and click on the "submit to the store" button.
+
+![submit](https://i.imgur.com/ofrcjed.png "submit to the store")
+
+**13.**  Scroll all the way down and click on the "save" button.
+
+**14.**  If necessary, click on the "submit to the store" button again.
+
+**15.**  The app has now been submitted to the store.  Wait to receive an email indicating that the app was published.
+
+### Step 5: Create a website that links to the app
