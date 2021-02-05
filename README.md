@@ -213,7 +213,7 @@ Now that we have generated the package, we need to upload it to our private Micr
 
 ![uploadfile](https://i.imgur.com/lhf3CIp.png "add the package file to the app")
 
-**5.**  Select the "Windows 10 desktop" and "Windows 10 xbox" checkboxes in the device family availability section.
+**5.**  Select the "Windows 10 desktop" and "Windows 10 Xbox" checkboxes in the device family availability section.
 
 **6.**  Scroll all the way down and click on the "save" button.
 
