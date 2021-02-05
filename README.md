@@ -278,3 +278,9 @@ Once the app has been published, it is time to create a website that will link t
 ### Step 6: Install the app to your Xbox in retail mode
 
 **1.**  Turn on your Xbox and open the Edge app.
+
+**2.**  Navigate to the URL of your website.
+
+**3.**  Click on the link you created for your app.
+
+**4.**  The Microsoft Store will launch.  Select the install button to add your app to your Xbox in retail mode.
