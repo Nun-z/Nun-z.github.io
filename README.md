@@ -242,3 +242,35 @@ Now that we have generated the package, we need to upload it to our private Micr
 **15.**  The app has now been submitted to the store.  Wait to receive an email indicating that the app was published.
 
 ### Step 5: Create a website that links to the app
+
+Once the app has been published, it is time to create a website that will link to your app in the Microsoft Store.  This step is required in order to get the app onto your Xbox in retail mode.  I will not detail this process extensively, but I will say what the website must contain.
+
+**1.**  Return to the Partner Center (https://partner.microsoft.com/en-us/dashboard/home) and go to your app's overview page.
+
+**2.**  Click on "product management" and then on "product identity."
+
+![identity](https://i.imgur.com/SMeP9Gf.png "go to the product identity pge")
+
+**3.**  Scroll down and write down the URL labeled as "URL if your app is only visible to certain people (requires authentication)."
+
+![URL](https://i.imgur.com/dgn3lbs.png "copy down the URL")
+
+**4.**  Create a new text file with the following contents and save it as index.html.
+
+```
+<HTML>
+    <BODY>
+         <p>
+            <a href="ms-windows-store://pdp/?productid=##">App Name</a>
+         </p>
+    </BODY>
+</HTML>
+```
+
+**5.**  Replace the "##" characters in the above file with the product ID from your URL.  It should look something like this:
+
+```
+ <a href="ms-windows-store://pdp/?productid=9NC9ZRXZWPXS">App Name</a>
+```
+
+**6.**  You will now need to host the index.html file.  One common choice for creating websites like these is github.io (https://pages.github.com/).
