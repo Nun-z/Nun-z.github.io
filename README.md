@@ -170,3 +170,29 @@ We will now need to generate a .msixupload or .appxupload file for submission to
 ![VSsignin](https://i.imgur.com/nHCZj2L.png "click on the sign-in button")
 
 **6.**  Log in with the Microsoft account that is linked to your Xbox.
+
+**7.**  Right-click on the UWP project in the Solution Explorer, place the mouse over the "publish" option, and then click on "associate app with the store."
+
+![associate](https://i.imgur.com/bu80QeO.png "Associate the source code with your app")
+
+**8.**  Press the "next" button, click on the name of your app, and then click on the "next" button again.
+
+**9.**  Click on the "associate" button.  The window will close.
+
+**10.**  Right-click on the UWP project in the Solution Explorer, place the mouse over the "publish" option, and then click on "create app packages."
+
+![createpackage](https://i.imgur.com/tiD1dn0.png "create the package")
+
+**11.**  Click on the topmost radio button next to the text containing your app's name.  Then, click on the "next" button.
+
+**12.**  Click on the checkbox for "automatically increment" and uncheck all checkboxes that are not related to the x64 configuration.
+
+**13.**  Uncheck the checkbox for "generate artifacts to validate..."
+
+![makepackagefile](https://i.imgur.com/c4IVMaF.png "select package options")
+
+**14.**  Click on the "create" button.
+
+**15.**  Click on the "output location" link.
+
+![linktopackage](https://i.imgur.com/kEVgRFW.png "open the package destination")
