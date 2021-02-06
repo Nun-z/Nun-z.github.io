@@ -184,7 +184,7 @@ We will now need to generate a .msixupload or .appxupload file for submission to
 
 `git clone --recursive https://github.com/Nun-z/UniversalFtpServer.git`
 
-**4.**  Double-click on the resulting .sln file that corresponds to your app.  If the project has multiple .sln files, make sure to click on the one that is specifically intended for generating a UWP package.
+**4.**  Double-click on the resulting .sln file that corresponds to your app.  If the source code has multiple .sln files, make sure to click on the one that is specifically intended for generating a UWP package.
 
 **5.**  Visual Studio will launch.  Click on the "sign in" button at the top-right of the screen.
 
