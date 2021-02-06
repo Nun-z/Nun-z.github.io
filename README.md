@@ -3,8 +3,29 @@ This method (used first by tunip3) allows apps to be installed to an Xbox in ret
 ## Guide to Installing Apps to an Xbox in Retail Mode
 
 ### Table of Contents
+[Introduction](#introduction)
 
-Empty
+[Requirements](#requirements)
+
+[Step 1: Sign up for a developer account](#step-1:-sign-up-for-a-developer-account)
+
+[Step 2: Create an application in Microsoft Partner Center](#-step-2:-create-an-application-in-microsoft-partner-center)
+    
+    [Step 2.1: Enter availability settings](#test)
+    
+    [Step 2.2: Enter properties settings]
+    
+    [Step 2.3: Enter age ratings settings]
+    
+    [Step 2.4: Enter store listing settings]
+
+[Step 3: Prepare the application's package for upload]
+
+[Step 4: Upload the application to the Microsoft Store]
+
+[Step 5: Create a website that links to the app]
+
+[Step 6: Install the app to your Xbox in retail mode]
 
 ### Introduction
 
