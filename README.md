@@ -3,29 +3,29 @@ This method (used first by tunip3) allows apps to be installed to an Xbox in ret
 ## Guide to Installing Apps to an Xbox in Retail Mode
 
 ### Table of Contents
-[Introduction](#introduction)
+* [Introduction](#introduction)
 
-[Requirements](#requirements)
+* [Requirements](#requirements)
 
-[Step 1: Sign up for a developer account](#step-1-sign-up-for-a-developer-account)
+* [Step 1: Sign up for a developer account](#step-1-sign-up-for-a-developer-account)
 
-[Step 2: Create an application in Microsoft Partner Center](#step-2-create-an-application-in-microsoft-partner-center)
+* [Step 2: Create an application in Microsoft Partner Center](#step-2-create-an-application-in-microsoft-partner-center)
     
-[Step 2.1: Enter availability settings](#step-21-enter-availability-settings)
+    * [Step 2.1: Enter availability settings](#step-21-enter-availability-settings)
     
-[Step 2.2: Enter properties settings](#step-22-enter-properties-settings)
+    * [Step 2.2: Enter properties settings](#step-22-enter-properties-settings)
     
-[Step 2.3: Enter age ratings settings](#step-23-enter-age-ratings-settings)
+    * [Step 2.3: Enter age ratings settings](#step-23-enter-age-ratings-settings)
     
-[Step 2.4: Enter store listing settings](#step-24-enter-store-listing-settings)
+    * [Step 2.4: Enter store listing settings](#step-24-enter-store-listing-settings)
 
-[Step 3: Prepare the application's package for upload](#step-3-prepare-the-applications-package-for-upload)
+* [Step 3: Prepare the application's package for upload](#step-3-prepare-the-applications-package-for-upload)
 
-[Step 4: Upload the application to the Microsoft Store](#step-4-upload-the-application-to-the-microsoft-store)
+* [Step 4: Upload the application to the Microsoft Store](#step-4-upload-the-application-to-the-microsoft-store)
 
-[Step 5: Create a website that links to the app](#step-5-create-a-website-that-links-to-the-app)
+* [Step 5: Create a website that links to the app](#step-5-create-a-website-that-links-to-the-app)
 
-[Step 6: Install the app to your Xbox in retail mode](#step-6-install-the-app-to-your-xbox-in-retail-mode)
+* [Step 6: Install the app to your Xbox in retail mode](#step-6-install-the-app-to-your-xbox-in-retail-mode)
 
 ### Introduction
 
