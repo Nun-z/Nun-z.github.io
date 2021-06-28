@@ -24,7 +24,6 @@
 }
 
 .u-section-1 .u-repeater-1 {
-  grid-auto-columns: calc(50% - 15px);
   grid-template-columns: calc(50% - 15px) calc(50% - 15px);
   grid-gap: 30px 30px;
   min-height: 618px;
@@ -244,7 +243,6 @@
   }
 
   .u-section-1 .u-repeater-1 {
-    grid-auto-columns: 100%;
     grid-template-columns: 100%;
   }
 

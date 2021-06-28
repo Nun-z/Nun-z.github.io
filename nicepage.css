@@ -5450,6 +5450,11 @@ a {
 .u-form .u-form-group.u-form-agree label.u-label {
   margin-left: 5px;
 }
+.u-form .u-form-group.u-form-checkbox label.u-label a,
+.u-form .u-form-group.u-form-agree label.u-label a {
+  margin-top: 0;
+  margin-bottom: 0;
+}
 .u-form .u-form-horizontal .u-form-group.u-form-checkbox,
 .u-form .u-form-horizontal .u-form-group.u-form-agree {
   align-items: center;
@@ -8391,40 +8396,6 @@ section.u-image,
 .u-image-circle.u-image {
   border-radius: 50% !important;
 }
-.u-image-circle.u-expanded-width {
-  padding-bottom: 100%;
-  height: auto !important;
-}
-@media (min-width: 1200px) {
-  .u-image-circle.u-expanded-width-xl {
-    padding-bottom: 100%;
-    height: auto !important;
-  }
-}
-@media (min-width: 992px) and (max-width: 1199px) {
-  .u-image-circle.u-expanded-width-lg {
-    padding-bottom: 100%;
-    height: auto !important;
-  }
-}
-@media (min-width: 768px) and (max-width: 991px) {
-  .u-image-circle.u-expanded-width-md {
-    padding-bottom: 100%;
-    height: auto !important;
-  }
-}
-@media (min-width: 576px) and (max-width: 767px) {
-  .u-image-circle.u-expanded-width-sm {
-    padding-bottom: 100%;
-    height: auto !important;
-  }
-}
-@media (max-width: 575px) {
-  .u-image-circle.u-expanded-width-xs {
-    padding-bottom: 100%;
-    height: auto !important;
-  }
-}
 .u-image-round {
   border-radius: 10px;
 }
@@ -8523,6 +8494,42 @@ section.u-image,
     margin-left: 0 !important;
     margin-right: 0 !important;
   }
+}
+.u-preserve-proportions.u-expanded-width > * {
+  position: absolute !important;
+}
+.u-preserve-proportions.u-expanded-width-xl > * {
+  position: absolute !important;
+}
+.u-preserve-proportions.u-expanded-width-lg > * {
+  position: absolute !important;
+}
+.u-preserve-proportions.u-expanded-width-md > * {
+  position: absolute !important;
+}
+.u-preserve-proportions.u-expanded-width-sm > * {
+  position: absolute !important;
+}
+.u-preserve-proportions.u-expanded-width-xs > * {
+  position: absolute !important;
+}
+.u-preserve-proportions.u-expanded-width > .u-preserve-proportions-child {
+  position: relative !important;
+}
+.u-preserve-proportions.u-expanded-width-xl > .u-preserve-proportions-child {
+  position: relative !important;
+}
+.u-preserve-proportions.u-expanded-width-lg > .u-preserve-proportions-child {
+  position: relative !important;
+}
+.u-preserve-proportions.u-expanded-width-md > .u-preserve-proportions-child {
+  position: relative !important;
+}
+.u-preserve-proportions.u-expanded-width-sm > .u-preserve-proportions-child {
+  position: relative !important;
+}
+.u-preserve-proportions.u-expanded-width-xs > .u-preserve-proportions-child {
+  position: relative !important;
 }
 .u-expanded-height {
   position: absolute !important;
