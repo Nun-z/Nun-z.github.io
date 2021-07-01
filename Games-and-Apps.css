@@ -68,19 +68,13 @@
 }
 
 .u-section-1 .u-btn-1 {
-  font-size: 0.875rem;
-  border-style: solid;
-  text-transform: uppercase;
-  margin: 16px auto 0;
-}
-
-.u-section-1 .u-btn-2 {
   border-style: none;
   text-transform: uppercase;
   background-image: none;
   font-size: 0.875rem;
   margin-left: auto;
   margin-right: auto;
+  margin-top: 16px;
 }
 
 .u-section-1 .u-list-item-2 {
@@ -119,20 +113,14 @@
   margin: 20px 2px 0;
 }
 
-.u-section-1 .u-btn-3 {
-  font-size: 0.875rem;
-  border-style: solid;
-  text-transform: uppercase;
-  margin: 16px auto 0;
-}
-
-.u-section-1 .u-btn-4 {
+.u-section-1 .u-btn-2 {
   border-style: none;
   text-transform: uppercase;
   background-image: none;
   font-size: 0.875rem;
   margin-left: auto;
   margin-right: auto;
+  margin-top: 16px;
 }
 
 .u-section-1 .u-list-item-3 {
@@ -171,20 +159,14 @@
   margin: 20px 2px 0;
 }
 
-.u-section-1 .u-btn-5 {
-  font-size: 0.875rem;
-  border-style: solid;
-  text-transform: uppercase;
-  margin: 16px auto 0;
-}
-
-.u-section-1 .u-btn-6 {
+.u-section-1 .u-btn-3 {
   border-style: none;
   text-transform: uppercase;
   background-image: none;
   font-size: 0.875rem;
   margin-left: auto;
   margin-right: auto;
+  margin-top: 16px;
 }
 
 .u-section-1 .u-list-item-4 {
@@ -223,20 +205,14 @@
   margin: 20px 2px 0;
 }
 
-.u-section-1 .u-btn-7 {
-  font-size: 0.875rem;
-  border-style: solid;
-  text-transform: uppercase;
-  margin: 16px auto 0;
-}
-
-.u-section-1 .u-btn-8 {
+.u-section-1 .u-btn-4 {
   border-style: none;
   text-transform: uppercase;
   background-image: none;
   font-size: 0.875rem;
   margin-left: auto;
   margin-right: auto;
+  margin-top: 16px;
 }
 
 @media (max-width: 1199px) {
@@ -287,8 +263,7 @@
     width: auto;
   }
 
-  .u-section-1 .u-btn-2 {
-    margin-top: 20px;
+  .u-section-1 .u-btn-1 {
     margin-bottom: 0;
   }
 
@@ -574,10 +549,6 @@
     width: 180px;
   }
 
-  .u-section-1 .u-btn-3 {
-    margin-top: 17px;
-  }
-
   .u-section-1 .u-container-layout-5 {
     padding-top: 0;
     padding-left: 10px;
@@ -604,10 +575,6 @@
     width: 180px;
   }
 
-  .u-section-1 .u-btn-5 {
-    margin-top: 17px;
-  }
-
   .u-section-1 .u-container-layout-7 {
     padding-top: 0;
     padding-left: 10px;
@@ -632,9 +599,5 @@
 
   .u-section-1 .u-text-10 {
     width: 180px;
-  }
-
-  .u-section-1 .u-btn-7 {
-    margin-top: 17px;
   }
 }
