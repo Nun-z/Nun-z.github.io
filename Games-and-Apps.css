@@ -1,6 +1,5 @@
 .u-section-1 {
   background-image: url("images/90PERCENT.png");
-  background-position: 50% 50%;
 }
 
 .u-section-1 .u-sheet-1 {
@@ -209,6 +208,10 @@
 }
 
 @media (max-width: 1199px) {
+  .u-section-1 {
+    background-position: 50% 50%;
+  }
+
   .u-section-1 .u-sheet-1 {
     min-height: 964px;
   }
@@ -349,7 +352,6 @@
   .u-section-1 .u-repeater-1 {
     grid-template-columns: 100%;
     min-height: 1354px;
-    grid-auto-columns: 100%;
   }
 
   .u-section-1 .u-text-4 {
@@ -501,6 +503,10 @@
     margin-top: 0;
   }
 
+  .u-section-1 .u-text-4 {
+    width: 180px;
+  }
+
   .u-section-1 .u-btn-1 {
     margin-top: 17px;
   }
@@ -525,6 +531,10 @@
 
   .u-section-1 .u-text-5 {
     margin-top: 0;
+  }
+
+  .u-section-1 .u-text-6 {
+    width: 180px;
   }
 
   .u-section-1 .u-btn-2 {
@@ -553,6 +563,10 @@
     margin-top: 0;
   }
 
+  .u-section-1 .u-text-8 {
+    width: 180px;
+  }
+
   .u-section-1 .u-btn-3 {
     margin-top: 17px;
   }
@@ -577,6 +591,10 @@
 
   .u-section-1 .u-text-9 {
     margin-top: 0;
+  }
+
+  .u-section-1 .u-text-10 {
+    width: 180px;
   }
 
   .u-section-1 .u-btn-4 {
