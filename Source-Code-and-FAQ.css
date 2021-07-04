@@ -3,7 +3,7 @@
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 964px;
+  min-height: 865px;
 }
 
 .u-section-1 .u-text-1 {
@@ -103,6 +103,10 @@
 }
 
 @media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 964px;
+  }
+
   .u-section-1 .u-accordion-1 {
     margin-right: initial;
     margin-left: initial;
