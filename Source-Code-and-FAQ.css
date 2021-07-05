@@ -3,7 +3,7 @@
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 375px;
+  min-height: 332px;
 }
 
 .u-section-1 .u-text-1 {
@@ -15,7 +15,7 @@
 }
 
 .u-section-1 .u-accordion-1 {
-  margin: 35px 0 0;
+  margin: 35px 0 26px;
 }
 
 .u-section-1 .u-accordion-link-1 {
@@ -143,6 +143,10 @@
 }
 
 @media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 344px;
+  }
+
   .u-section-1 .u-text-1 {
     width: auto;
     margin-top: 35px;
@@ -152,7 +156,7 @@
   }
 
   .u-section-1 .u-accordion-1 {
-    margin-bottom: 60px;
+    margin-bottom: 0;
     margin-top: 33px;
     margin-right: initial;
     margin-left: initial;
