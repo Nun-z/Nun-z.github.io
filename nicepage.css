@@ -33874,7 +33874,12 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-header .u-text-1 {
   font-size: 1rem;
   font-family: "Open Sans";
-  margin: -27px 1015px 31px 68px;
+  margin: -27px 1083px 31px 0;
+}
+
+.u-header .u-btn-1 {
+  background-image: none;
+  padding: 0;
 }
 @media (max-width: 1199px) {
   .u-header .u-sheet-1 {
@@ -33889,7 +33894,9 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-header .u-text-1 {
     width: auto;
-    margin: -28px 714px 31px 0;
+    margin-top: -28px;
+    margin-right: 714px;
+    margin-bottom: 31px;
   }
 }
 @media (max-width: 991px) {
