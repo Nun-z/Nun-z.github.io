@@ -633,6 +633,12 @@
     font-size: 3rem;
   }
 
+  .u-section-1 .u-layout-wrap-1 {
+    margin-top: 25px;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
   .u-section-1 .u-layout-cell-1 {
     min-height: 100px;
   }
@@ -867,7 +873,7 @@
   }
 
   .u-section-1 .u-layout-cell-4 {
-    min-height: 285px;
+    min-height: 333px;
   }
 
   .u-section-1 .u-group-7 {
@@ -875,7 +881,7 @@
   }
 
   .u-section-1 .u-image-4 {
-    margin-top: 0;
+    margin-top: 5px;
   }
 
   .u-section-1 .u-group-8 {
